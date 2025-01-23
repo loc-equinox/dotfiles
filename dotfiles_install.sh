@@ -12,6 +12,7 @@ fi
 declare -a DOTFILES=(
     ".bash_profile"
     ".tmux.conf"
+    ".vimrc"
     ".config/fish/config.fish"
     ".config/fish/functions"
 )

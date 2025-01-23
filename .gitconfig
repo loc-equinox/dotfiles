@@ -1,0 +1,15 @@
+[http]
+	sslverify = false
+[user]
+	name = Leshan Chen
+	email = 2400013135@stu.pku.edu.cn
+[core]
+	editor = vim
+[init]
+	defaultBranch = master
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+	lagd = log --all --graph --decorate

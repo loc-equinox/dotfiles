@@ -14,7 +14,10 @@ declare -a DOTFILES=(
     ".tmux.conf"
     ".vimrc"
     ".config/fish/config.fish"
-    ".config/fish/functions"
+    ".config/fish/functions/co.fish"
+    ".config/fish/functions/mcd.fish"
+    ".config/fish/functions/run.fish"
+    ".config/fish/functions/fish_user_key_bindings.fish"
 )
 
 for dotfile in "${DOTFILES[@]}"; do
